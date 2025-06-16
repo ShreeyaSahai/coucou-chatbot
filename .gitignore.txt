@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Flask-specific
+instance/
+# If you are using a specific database file, add it here (e.g., development.db)
+# *.db
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables / API keys (if you ever use them directly in files)
+.env
+*.env
+*.secret
+
+# Logs
+*.log
+logs/
+
+# Any specific image cache or generated files
+static/images/generated/

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coucou - Your French Chatbot</title>
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display&family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Coucou - Learn French!</h1>
+    </header>
+
+    <main>
+        <section class="info-box">
+            <p>
+                Learn French the fun way! Meet your French buddy, <b>Coucou - the French Chatbot.</b> <br>
+                Try talking to it, and you'll be learning and speaking basic French phrases in no time!
+            </p>
+        </section>
+
+        <div class="chat-container">
+            <div id="chat-box"></div>
+            <form id="chat-form">
+                <input type="text" id="user-input" placeholder="Hi Coucou!" autocomplete="off" required>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+
+        <section class="info-box">
+            <p><strong>
+                Please note that if you wish to end the conversation, just say one of these phrases: a demain, a bientot, bye, goodbye.
+                <br> Say 'start over' or 'restart' to begin a new conversation.
+            </p></strong>
+        </section>
+
+        <section class="faqs-section">
+            <h4>Frequently Asked Questions</h4>
+            <div id="faqs-container"></div>
+        </section>
+    </main>
+
+    <footer>
+        Made with Love ❤️<br>
+        &copy; copyright reserved<br>
+    </footer>
+    <script src="/static/script.js"></script>
+</body>
+</html>
