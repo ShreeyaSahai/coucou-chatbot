@@ -90,3 +90,9 @@ Open your web browser and navigate to:
 http://127.0.0.1:5000/
 ```
 You should now see the Coucou chatbot interface, ready to chat!
+
+#Demo
+
+(https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/assets/Coucou-Chatbot.mp4)
+
+
