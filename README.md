@@ -91,8 +91,11 @@ http://127.0.0.1:5000/
 ```
 You should now see the Coucou chatbot interface, ready to chat!
 
-#Demo
+# Demo
 
-(https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/assets/coucou_chatbot_demo.mp4)
+[![Watch the video](https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/assets/coucou_thumbail.png)](https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/assets/coucou_chatbot_demo.mp4)
+
+
+
 
 
