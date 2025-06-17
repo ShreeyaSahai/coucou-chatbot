@@ -93,7 +93,7 @@ You should now see the Coucou chatbot interface, ready to chat!
 
 # Demo
 
-[![Watch the video](https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/assets/coucou_thumbail.png)](https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/assets/coucou_chatbot_demo.mp4)
+[![Watch the video](https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/coucou_thumbail.png)](https://raw.githubusercontent.com/ShreeyaSahai/coucou-chatbot/main/coucou_chatbot_demo.mp4)
 
 
 
